@@ -4,6 +4,9 @@ import sys
 # Initialize Pygame
 pygame.init()
 
+COLOR_ENEMY = "#cc4b18"
+COLOR_SECONDARY = "#e19724"
+
 # Set up screen dimensions and display
 screen_width = 800
 screen_height = 600
